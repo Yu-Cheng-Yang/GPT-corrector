@@ -1,4 +1,4 @@
-Setting up the GPT-corrector
+# Setting up the GPT-corrector
 
 To run the GPT-corrector, follow these steps:
 
