@@ -7,9 +7,7 @@ Install Streamlit, the framework used for running the GPT-corrector, as well as 
 
 2. pip install streamlit python-docx
 
-3. Run Streamlit in your Python terminal. Navigate to the project folder and execute the following command:
-
-streamlit run main.py
+3. Run Streamlit in your Python terminal. Navigate to the project folder and execute the following command: streamlit run main.py
 
 5. If the project is not in your current directory, provide the full path to the 'main.py' file when running the command.
 
